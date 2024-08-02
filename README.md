@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Atreyus-dev
+- 👋 Hi, I’m Miguel Romero @Atreyus-dev
 - 👀 I’m interested in frontend developing
 - 🌱 I’m currently learning Vanilla Javascript
 - 💞️ I’m looking to collaborate freelance projects
